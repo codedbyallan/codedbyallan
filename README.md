@@ -34,7 +34,7 @@ O projeto começou como um CRUD simples e evoluiu para uma aplicação completa,
 
 #### Links
 
-- Frontend publicado: [https://taskflow-web-e6fr.onrender.com](https://taskflow-web-e6fr.onrender.com)
+- Frontend publicado: [https://taskflow-web-e6fr.onrender.com](https://taskflow-web-e6rf.onrender.com)
 - API publicada: [https://taskflow-api-jkpb.onrender.com/api/tasks](https://taskflow-api-jkpb.onrender.com/api/tasks)
 - Repositório: [https://github.com/codedbyallan/taskflow](https://github.com/codedbyallan/taskflow)
 
